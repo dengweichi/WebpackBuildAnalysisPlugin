@@ -1,0 +1,23 @@
+{
+  "name": "webpackBuildAnalysisPlugin",
+  "version": "1.0.0",
+  "description": "webpack构建分析插件",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengweichi/WebpackBuildAnalysisPlugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengweichi/WebpackBuildAnalysisPlugin/issues"
+  },
+  "homepage": "https://github.com/dengweichi/WebpackBuildAnalysisPlugin#readme"
+}
