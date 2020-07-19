@@ -5,7 +5,8 @@
 ### 1.安装 
 ```js
     // 安装
-    // npm install webpackBuildAnalysisPlugin
+    // npm install webpack-build-analysis-plugin
+    // const {  WebpackBuildAnalysisPlugin } = require('webpack-build-analysis-plugin')
     // vue-cli使用
     module.exports = {
         configureWebpack(config) {

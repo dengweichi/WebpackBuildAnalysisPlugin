@@ -1,6 +1,6 @@
 {
-  "name": "webpackBuildAnalysisPlugin",
-  "version": "1.0.0",
+  "name": "webpack-build-analysis-plugin",
+  "version": "1.0.1",
   "description": "webpack构建分析插件",
   "directories": {
     "lib": "lib"
